@@ -4,6 +4,10 @@
 
 - 🔭 I’m currently working on [Modern_Bank_App](https://github.com/Amr-Ezz/Bank_modern_app)
 <img src="./src/assets/Modern_App%201.png" alt="Modern App Screen">
+<img src="./src/assets/Modern_App%202.png" alt="Modern App Screen">
+<img src="./src/assets/Modern_App%203.png" alt="Modern App Screen">
+<img src="./src/assets/Modern_App%204.png" alt="Modern App Screen">
+<img src="./src/assets/Modern_App%205.png" alt="Modern App Screen">
 
 - 🌱 I’m currently learning **Next.js**
 
